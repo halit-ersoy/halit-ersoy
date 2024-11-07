@@ -19,7 +19,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="halit_ers" height="30" width="40" />
     </a>
     <a href="https://halit-ersoy.github.io/Blog/" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="personal website" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/ChengHung-Wang/course-pro-gui/a41de26cbfe9ee3112e2a4cf8c10e98041648b52/src/assets/fluentIcons/icons8-search.svg" alt="personal website" height="30" width="40" />
     </a>
   </p>
 
