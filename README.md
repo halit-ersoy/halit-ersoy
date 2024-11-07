@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=halit-ersoy&label=Profile%20views&color=0e75b6&style=flat" alt="halit-ersoy" />
   </p>
 
-  - 🔭 I’m currently working on **Web Development**
+  - 🔭 I’m currently working on **Mobile Development** and **Cyber Security**
 
   - 📫 How to reach me **halit.ersy@gmail.com**
 
