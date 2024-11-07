@@ -1,25 +1,25 @@
 <div align="center">
-  <h1>Hi 👋, I'm Pelin KONAK</h1>
-  <h3>A passionate app developer from Türkiye</h3>
+  <h1>Hi 👋, I'm Halit ERSOY</h1>
+  <h3>A passionate developer from Türkiye</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=pelinkonak&label=Profile%20views&color=0e75b6&style=flat" alt="pelinkonak" />
+    <img src="https://komarev.com/ghpvc/?username=halit-ersoy&label=Profile%20views&color=0e75b6&style=flat" alt="halit-ersoy" />
   </p>
 
-  - 🔭 I’m currently working on **Kotlin**
+  - 🔭 I’m currently working on **Web Development**
 
-  - 📫 How to reach me **pelin.konak928@gmail.com**
+  - 📫 How to reach me **halit.ersy@gmail.com**
 
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://linkedin.com/in/pelin konak" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pelin konak" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/halit-ersoy/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halit ersoy" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/peliinkonak" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peliinkonak" height="30" width="40" />
+    <a href="https://www.instagram.com/halit_ers/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="halit_ers" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/pelko._." target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pelko._." height="30" width="40" />
+    <a href="https://halit-ersoy.github.io/Blog/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="personal website" height="30" width="40" />
     </a>
   </p>
 
@@ -52,12 +52,12 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pelinkonak&show_icons=true&locale=en&layout=compact" alt="pelinkonak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halit-ersoy&show_icons=true&locale=en&layout=compact" alt="halit-ersoy" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pelinkonak&" alt="pelinkonak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=halit-ersoy&" alt="halit-ersoy" />
   </p>
 
-  <img src="https://github.com/pelinkonak/pelinkonak/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+  <img src="https://github.com/halit-ersoy/halit-ersoy/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </div>
