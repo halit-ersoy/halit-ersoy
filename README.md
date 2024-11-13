@@ -43,6 +43,4 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=halit-ersoy&" alt="halit-ersoy" />
   </p>
-
-  <img src="https://github.com/halit-ersoy/halit-ersoy/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </div>
